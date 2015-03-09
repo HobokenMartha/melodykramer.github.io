@@ -12,6 +12,7 @@ I picked [a random piece](http://www.npr.org/2014/10/16/354370783/w-va-pottery-c
 6. Author: female
 7. Subject: brothers
 8. Subject: history
+9. Subject: union
 9. Place: West Virginia
 10. Subject: labor
 11. Subject: manufacturing
